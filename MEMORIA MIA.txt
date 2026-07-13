@@ -1,0 +1,26 @@
+CREACION DE PORTAFOLIO
+
+INICIO DE PROYECTO GRID SAFETY
+
+1. Se creo un repositorio en GitHub 
+2. clone el repositorio en mi local en mi carpeta de proyecto Portafolio\gridsafety 
+
+	* No tuve que crear ninguna carpeta solo la de Portafolio, lo demás se clono hasta aquí
+
+	* Lo clone con este comando en la terminal de visual code dentro de la carpeta portafolio:
+		
+	<git clone https://github.com/Laura-Munoz/gridsafety.git
+        cd gridsafety >
+3. cree el entorno .venv en mi local (terminal de VC - visialcode) y el requirements
+4. se crea el .gitignore en visual, se pone TODO lo que NO va a GitHub (Modelo y datos) es decir a GitHub solo va el código
+5. se configura el config.yaml: 
+	 
+	Qué es: el archivo donde viven TODOS los parámetros del proyecto, para no tener números sueltos escondidos dentro del código. Cuando en la fase 2 pruebes otro tamaño de imagen o más épocas, cambias aquí, no en el código.
+
+PENDIENTES
+
+6.  SOLUCIONAR PASO 9 PORQUE SIGUE SIN FUNCIONAR
+
+7. CREAR FILES JOURNAL Y ISSUES CHECK  (PARA IR LLEVANDO MI MEMORY DE LO QUE VOY HACIENDO EN GITHUB E IR PRACTICANDO APRENDIENDOLO)
+
+	

@@ -1,0 +1,17 @@
+# Entorno
+.venv/
+__pycache__/
+
+# Datos y modelos (pesados, no van a git)
+data/
+models/
+*.pt
+*.onnx
+*.mp4
+
+# Experimentos
+mlruns/
+runs/
+
+# Sistema
+.DS_Store
